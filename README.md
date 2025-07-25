@@ -66,10 +66,10 @@ Asegúrate de tener instalado Python (versión 3.7 o superior recomendada) y las
 * `plotly`
 * `requests`
 
-**Descargar el Notebook**
+**2. Descargar el Notebook**
 Puedes descargar el archivo TelecomX_LATAM.ipynb directamente desde el repositorio de GitHub o clonar el repositorio completo si lo deseas.
 
-**Abrir y Ejecutar el Notebook**
+**3. Abrir y Ejecutar el Notebook**
 Opción A: Jupyter Notebook/JupyterLab (Local)
 Abre tu terminal o símbolo del sistema.
 
