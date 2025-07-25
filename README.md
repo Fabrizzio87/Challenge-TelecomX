@@ -70,7 +70,7 @@ Asegúrate de tener instalado Python (versión 3.7 o superior recomendada) y las
 Puedes descargar el archivo TelecomX_LATAM.ipynb directamente desde el repositorio de GitHub o clonar el repositorio completo si lo deseas.
 
 ### **3. Abrir y Ejecutar el Notebook**
-Opción A: Jupyter Notebook/JupyterLab (Local)
+**Opción A**: Jupyter Notebook/JupyterLab (Local)
 Abre tu terminal o símbolo del sistema.
 
 Navega hasta el directorio donde guardaste el archivo .ipynb.
@@ -81,7 +81,7 @@ Se abrirá una interfaz en tu navegador. Haz clic en TelecomX_LATAM.ipynb para a
 
 Una vez abierto, puedes ejecutar cada celda de código secuencialmente (clic en "Cell" -> "Run All" o Shift + Enter en cada celda).
 
-Opción B: Google Colab (Online)
+**Opción B**: Google Colab (Online)
 Ve a Google Colab.
 
 Haz clic en "File" (Archivo) -> "Upload notebook" (Subir notebook).
